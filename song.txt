@@ -7,3 +7,5 @@ coro verso 1
 coro verso 2
 coro verso 3
 coro verso 4
+
+segunda estrofa
