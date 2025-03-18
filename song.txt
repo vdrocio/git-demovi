@@ -2,3 +2,6 @@ primer verso
 segundo verso
 tercer verso
 cuarto verso
+
+coro verso 1
+coro verso 2
